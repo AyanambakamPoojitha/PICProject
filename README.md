@@ -11,8 +11,8 @@ CAPACITORS(crystal stability)
 10k ohm rtresistors
 Working
 Rotating the POT simulates head movement:
-- Rotate right → Head moves down
-- Rotate left → Head moves up
+ Rotate right → Head moves down
+ Rotate left → Head moves up
 
 PIC reads this using ADC and sends:
  "U" → Scroll up
