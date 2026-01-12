@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo8 -N"C:\Users\chall\Desktop\pic project_mic\micro_1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\chall\Desktop\pic project_mic\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "micro_1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_D.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	micro_1.c
+warning: 16	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	micro_1.c
+diagnostics: 40	123	Compiled Successfully	micro_1.c
+diagnostics: 0	127	All files Compiled in 172 ms	 
+hint: 0	1144	Used RAM (bytes): 36 (2%)  Free RAM (bytes): 1479 (98%)	Used RAM (bytes): 36 (2%)  Free RAM (bytes): 1479 (98%)
+hint: 0	1144	Used ROM (bytes): 601 (2%)  Free ROM (bytes): 32167 (98%)	Used ROM (bytes): 601 (2%)  Free ROM (bytes): 32167 (98%)
+diagnostics: 0	125	Project Linked Successfully	micro_1.mcppi
+diagnostics: 0	128	Linked in 110 ms	 
+diagnostics: 0	129	Project 'micro_1.mcppi' completed: 422 ms	 
+diagnostics: 0	103	Finished successfully: 12 Jan 2026, 16:18:34	micro_1.mcppi
